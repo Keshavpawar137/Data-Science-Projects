@@ -1,3 +1,7 @@
 This is use for runing the Streamlit in anaconda prompt 
 
 python -m streamlit hello
+
+This code is use for run jupyter notebook app.py 
+
+python -m streamlit run app.py 
