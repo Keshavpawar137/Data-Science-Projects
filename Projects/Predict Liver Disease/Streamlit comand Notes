@@ -1,10 +1,21 @@
-**This is use for runing the Streamlit  project using anaconda prompt** 
+**This is use for running the Streamlit project using anaconda prompt**
 
 # python -m streamlit hello
 
 **First we check path of the project and go to this dir**
 
-cd D:\All\Project-2_Liver_Disease_Classification
-python -m streamlit run ---Name of the project ---- 
 
-ex python -m streamlit run Home.py
+Example:
+
+```bash
+python -m streamlit run Home.py
+
+### Explanation:
+1. **Bold Text**: Text between two sets of double asterisks (`**`) will be bold.
+2. **Code Blocks**: Use triple backticks (```) before and after code blocks for code formatting.
+3. **Inline Code**: Use single backticks (`) for inline code, but it's not necessary if you're using block code sections.
+
+You can copy and paste this into your GitHub text file to have the bold text and proper formatting.
+
+
+
