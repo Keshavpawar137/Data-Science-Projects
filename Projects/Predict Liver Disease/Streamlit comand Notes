@@ -1,7 +1,10 @@
-This is use for runing the Streamlit in anaconda prompt 
+**This is use for runing the Streamlit  project using anaconda prompt** 
 
-python -m streamlit hello
+# python -m streamlit hello
 
-This code is use for run jupyter notebook app.py 
+**First we check path of the project and go to this dir**
 
-python -m streamlit run app.py 
+cd D:\All\Project-2_Liver_Disease_Classification
+python -m streamlit run ---Name of the project ---- 
+
+ex python -m streamlit run Home.py
