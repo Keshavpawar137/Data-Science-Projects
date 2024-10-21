@@ -5,7 +5,7 @@
 **First we check path of the project and go to this dir**
 
 cd D:\All\Project-2_Liver_Disease_Classification
-python -m streamlit run ---Name of the project ---- 
-Example ..
 
- python -m streamlit run Home.py
+
+cd D:\All\Project-2_Liver_Disease_Classification
+python -m streamlit run Home.py
