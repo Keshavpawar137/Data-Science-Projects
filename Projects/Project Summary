@@ -1,12 +1,32 @@
 Stock Price Prediction
 Oct 2024 - Nov 2024 | GitHub: https://github.com/Keshavpawar137/Data-Science-Projects/tree/main/Projects/Stock%20price%20Prediction
-Developed a predictive model for stock price forecasting using Linear Regression, Random Forest, and Support Vector Machines. Analyzed historical stock market data to identify patterns and trends, applying extensive data preprocessing such as handling missing values, feature scaling, and feature engineering to improve model performance. Designed interactive visualizations to showcase market trends and predictions, aiding data-driven investment decisions. Evaluated model accuracy using Mean Squared Error (MSE), R-squared, and Mean Absolute Error (MAE) and optimized performance through hyperparameter tuning and cross-validation.
+Developed a predictive model for stock price forecasting using Linear Regression,
+Random Forest, and Support Vector Machines. Analyzed historical stock market data
+to identify patterns and trends, applying extensive data preprocessing such as handling
+missing values, feature scaling, and feature engineering to improve model performance.
+Designed interactive visualizations to showcase market trends and predictions, aiding 
+data-driven investment decisions. Evaluated model accuracy using Mean Squared Error (MSE)
+, R-squared, and Mean Absolute Error (MAE) and optimized performance through hyperparameter
+tuning and cross-validation.
 
 Liver Disease Prediction
 July 2024 - Oct 2024 | GitHub: https://github.com/Keshavpawar137/Data-Science-Projects/tree/main/Projects/Predict%20Liver%20Disease
-Built a machine learning model for early detection of liver diseases using Logistic Regression, Random Forest, and Gradient Boosting. Developed a Streamlit-based user interface for users to input clinical data and receive predictions for proactive healthcare. Performed data preprocessing, including missing value handling, outlier detection, feature scaling, and encoding categorical variables. Conducted exploratory data analysis (EDA) to uncover key patterns in the dataset. Optimized model performance with hyperparameter tuning and cross-validation and evaluated accuracy using precision, recall, F1-score, and ROC-AUC.
+Built a machine learning model for early detection of liver diseases using Logistic
+Regression, Random Forest, and Gradient Boosting. Developed a Streamlit-based user
+interface for users to input clinical data and receive predictions for proactive
+healthcare. Performed data preprocessing, including missing value handling, outlier
+detection, feature scaling, and encoding categorical variables. Conducted exploratory
+data analysis (EDA) to uncover key patterns in the dataset. Optimized model performance
+with hyperparameter tuning and cross-validation and evaluated accuracy using precision,
+recall, F1-score, and ROC-AUC.
 
 Resume Classification
 Nov 2024 - Jan 2025 | GitHub: https://github.com/Keshavpawar137/Data-Science-Projects/tree/main/Projects/Predict%20Liver%20Disease
-Developed a resume classification model using Natural Language Processing (NLP) to categorize resumes by job roles. Utilized Scikit-learn, Pandas, and NLTK for data preprocessing, feature extraction, and model building. Applied text preprocessing techniques such as data cleaning, tokenization, and vectorization to prepare text for analysis. Implemented Support Vector Machine (SVM) and Random Forest algorithms, achieving high classification accuracy through hyperparameter tuning. Evaluated model performance using precision, recall, F1-score, and accuracy, demonstrating the potential of NLP and machine learning in automating resume screening and recruitment.
+Developed a resume classification model using Natural Language Processing (NLP) to
+categorize resumes by job roles. Utilized Scikit-learn, Pandas, and NLTK for data preprocessing
+, feature extraction, and model building. Applied text preprocessing techniques such as data cleaning
+, tokenization, and vectorization to prepare text for analysis. Implemented Support Vector Machine (SVM)
+and Random Forest algorithms, achieving high classification accuracy through hyperparameter tuning.
+Evaluated model performance using precision, recall, F1-score, and accuracy, demonstrating the potential
+of NLP and machine learning in automating resume screening and recruitment.
 
